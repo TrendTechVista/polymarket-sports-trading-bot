@@ -1,4 +1,4 @@
-# polymarket sports bot
+# polymarket sports trading bot
 
 TypeScript/Node bot for **sports prediction markets** on Polymarket. Implements **value betting** and **arbitrage** strategies.
 
